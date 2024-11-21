@@ -12,5 +12,6 @@
     <h2>Address</h2>
     <h2>Address2</h2>
     <h2>Age</h2>
+    <h2>Birthday</h2>
   </div>
 </template>
