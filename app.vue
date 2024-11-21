@@ -13,5 +13,6 @@
     <h2>Address2</h2>
     <h2>Age</h2>
     <h2>Birthday</h2>
+    <h2>Tel</h2>
   </div>
 </template>
