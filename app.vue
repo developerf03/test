@@ -14,5 +14,6 @@
     <h2>Age</h2>
     <h2>Birthday</h2>
     <h2>Tel</h2>
+    <h2>Email</h2>
   </div>
 </template>
