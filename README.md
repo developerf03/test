@@ -2,6 +2,12 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## [1.0.7]
+
+### Updated
+
+- Address2
+
 ## [1.0.6]
 
 ### Updated
