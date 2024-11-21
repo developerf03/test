@@ -2,6 +2,12 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## [1.0.11]
+
+### Updated
+
+- Email
+
 ## [1.0.10]
 
 ### Updated
