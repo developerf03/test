@@ -2,74 +2,49 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+## [1.0.6]
 
-Make sure to install dependencies:
+### Updated
 
-```bash
-# npm
-npm install
+- Add section 2
+- First name
+- Last name
+- Address
 
-# pnpm
-pnpm install
 
-# yarn
-yarn install
+## [1.0.5]
 
-# bun
-bun install
-```
+### Updated
 
-## Development Server
+- Add robots
 
-Start the development server on `http://localhost:3000`:
+## [1.0.4]
 
-```bash
-# npm
-npm run dev
+### Updated
 
-# pnpm
-pnpm dev
+- Add revert to tag v1.0.2
 
-# yarn
-yarn dev
+## [1.0.3]
 
-# bun
-bun run dev
-```
+### Updated
 
-## Production
+- Add author
 
-Build the application for production:
+## [1.0.2]
 
-```bash
-# npm
-npm run build
+### Updated
 
-# pnpm
-pnpm build
+- Add description
+- Add image
 
-# yarn
-yarn build
+## [1.0.1]
 
-# bun
-bun run build
-```
+### Updated
 
-Locally preview production build:
+- Add title
 
-```bash
-# npm
-npm run preview
+## [1.0.0]
 
-# pnpm
-pnpm preview
+### Updated
 
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Add version
