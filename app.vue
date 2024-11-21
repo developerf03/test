@@ -6,5 +6,7 @@
     <h1>image 1</h1>
     <h1>author 1</h1>
     <h1>robots 1</h1>
+    <!-- section 2 -->
+    <h2>First name</h2>
   </div>
 </template>
