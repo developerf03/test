@@ -10,5 +10,6 @@
     <h2>First name</h2>
     <h2>Last name</h2>
     <h2>Address</h2>
+    <h2>Address2</h2>
   </div>
 </template>
